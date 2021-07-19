@@ -1,0 +1,3 @@
+local message is $Hello! Thank you for visiting the Yoru sample file!$
+
+print .message. 
