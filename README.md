@@ -52,6 +52,7 @@ __________
 
 YORU|LUAU
 ----|-----
+$hi$ | "hi"
 absolute (i.e. `math has absolute .-53745. `) | abs (i.e. `math.abs(-4367)`)
 arc cosine | acos
 arc sine | asin
